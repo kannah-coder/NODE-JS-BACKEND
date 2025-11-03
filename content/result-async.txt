@@ -1,0 +1,1 @@
+HERE IS THE RESULT OF ASYNC FS :hello from 1 file, hello from 1 file
