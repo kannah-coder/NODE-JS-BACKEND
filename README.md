@@ -3,7 +3,6 @@
 A complete **Node.js + Express.js** backend project demonstrating REST API development, routing, MongoDB integration, and basic CRUD operations.
 
 ---
-
 ## 💡 What is Node.js?
 
 **Node.js** is a **JavaScript runtime environment** that allows you to run JavaScript **outside the browser** — on your computer or a server.
@@ -48,3 +47,5 @@ With these features, you can use JavaScript to build:
 ```bash
 git clone https://github.com/kannah-coder/NODE-JS-BACKEND.git
 cd NODE-JS-BACKEND
+```
+ 
