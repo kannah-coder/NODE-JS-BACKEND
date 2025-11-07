@@ -48,7 +48,9 @@ With these features, you can use JavaScript to build:
 git clone https://github.com/kannah-coder/NODE-JS-BACKEND.git
 cd NODE-JS-BACKEND
 ```
+It has common modules used in js 
 
-Atlast i have provided one application of NODE-JS named as server.js it clears all the concept about the node js
+I have provided one application of NODE-JS named as server.js it clears all the concept about the node js
  
+
 
